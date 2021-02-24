@@ -1,0 +1,6 @@
+---
+- name: secret change
+  debug:
+    msg: "Secrets have changed"
+
+

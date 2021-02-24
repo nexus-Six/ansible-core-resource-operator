@@ -1,0 +1,5 @@
+---
+- version: v1
+  kind: Secret
+  role: csecrets
+  manageStatus: false
